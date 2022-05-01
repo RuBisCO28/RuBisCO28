@@ -1,5 +1,5 @@
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuBisCo28&theme=vue-dark&show-icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuBisCo28&theme=vue-dark&show-icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuBisCO28&layout=compact&theme=vue-dark&show-icons=true&count_private=true&hide=css,html
 )](https://github.com/anuraghazra/github-readme-stats)
 
