@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ru
 
 <!--
 **RuBisCO28/RuBisCO28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuBisCO28&layout=compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuBisCO28&layout=compact&theme=vue-dark&show-icons=true&count_private=true&hide=css,html
 )](https://github.com/anuraghazra/github-readme-stats)
